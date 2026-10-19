@@ -14,8 +14,6 @@ Co-lead. A 24-hour hackathon for 48 students on the health of frontline workers,
 
 AFEC × SJTU Antai conference: 150+ attendees, 8 speakers, 2 roundtables. I organised and moderated a roundtable with executives, including the CFO of Decathlon China.
 
-![Moderating the roundtable](shanghai-moderating.jpg)
-
 | | |
 |---|---|
 | ![Roundtable](shanghai-roundtable.jpg) | ![Speakers](shanghai-speakers-group.jpg) |
